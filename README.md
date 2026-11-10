@@ -76,6 +76,7 @@
 - [Shokofin](https://github.com/ShokoAnime/Shokofin) - A Jellyfin plugin to integrate [Jellyfin](https://jellyfin.org/docs/) with [Shoko Server](https://shokoanime.com/downloads/shoko-server/).
 - [Static Assets](https://github.com/cleverdevil/jelly-static-assets) - Upload and serve static assets such as CSS, JavaScript, and images directly from Jellyfin.
 - [TeleJelly](https://github.com/hexxone/TeleJelly) - Allows users to sign in through the [Telegram Login Widget](https://core.telegram.org/widgets/login).
+- [TSDb](https://github.com/thesubtitledb/subtitledb-integrations/tree/main/plugins/dotnet) - Subtitle provider for Jellyfin and Emby that downloads from The Subtitle Database (thesubtitledb.org). No account or API key needed.
 
 
 #### 🏷️ Metadata Providers
